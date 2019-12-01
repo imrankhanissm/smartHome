@@ -1,0 +1,14 @@
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\bin\Release\netcoreapp2.1\smartHome.deps.json
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\bin\Release\netcoreapp2.1\smartHome.runtimeconfig.json
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\bin\Release\netcoreapp2.1\smartHome.runtimeconfig.dev.json
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\bin\Release\netcoreapp2.1\smartHome.dll
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\bin\Release\netcoreapp2.1\smartHome.pdb
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\obj\Release\netcoreapp2.1\smartHome.csproj.CoreCompileInputs.cache
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\obj\Release\netcoreapp2.1\smartHome.RazorAssemblyInfo.cache
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\obj\Release\netcoreapp2.1\smartHome.RazorAssemblyInfo.cs
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\obj\Release\netcoreapp2.1\smartHome.AssemblyInfoInputs.cache
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\obj\Release\netcoreapp2.1\smartHome.AssemblyInfo.cs
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\obj\Release\netcoreapp2.1\smartHome.RazorTargetAssemblyInfo.cache
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\obj\Release\netcoreapp2.1\smartHome.dll
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\obj\Release\netcoreapp2.1\smartHome.pdb
+C:\Users\Imran\Documents\Myfiles\myProjects\smartHome\smartHomeBackEnd\smartHome\obj\Release\netcoreapp2.1\smartHome.csprojAssemblyReference.cache

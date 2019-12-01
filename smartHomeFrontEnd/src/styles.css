@@ -1,0 +1,57 @@
+/* You can add global styles to this file, and also import other style files */
+
+:host {
+    font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol";
+    font-size: 14px;
+    color: #333;
+    box-sizing: border-box;
+    -webkit-font-smoothing: antialiased;
+    -moz-osx-font-smoothing: grayscale;
+}
+
+body {
+    margin: 0px;
+    padding: 0px;
+}
+
+.spacer {
+    flex: 1;
+}
+
+.toolbar {
+    height: 60px;
+    margin: 0px;
+    display: flex;
+    align-items: center;
+    background-color: #18cc3f;
+    color: white;
+    font-weight: 600;
+}
+
+.toolbar img {
+    margin: 0 16px;
+}
+
+@media screen and (max-width: 575px) {
+    svg#rocket-smoke {
+        display: none;
+        visibility: hidden;
+    }
+}
+
+.navTab {
+    color: white;
+    background: rgba(1, 1, 1, 0.1);
+    padding: 20px;
+    border-radius: 5px;
+}
+
+.navTab:hover {
+    color: white;
+    cursor: pointer;
+    background: rgba(1, 1, 1, 0.2);
+}
+
+.activeNavTab {
+    background: rgba(1, 1, 1, 0.2);
+}

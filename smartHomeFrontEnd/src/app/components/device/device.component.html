@@ -1,0 +1,3 @@
+<div [ngClass]="setClass()" (click)="switch(deviceId)">
+    <p>{{ this.deviceService.devices[this.deviceId].deviceName }}</p>
+</div>

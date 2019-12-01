@@ -1,0 +1,2 @@
+<input class="analogDevice" type="range" min=0 max="100" [value]="analogDeviceService.analogDevices[analogDeviceId].value" #ref (input)="updateValue(analogDeviceId, ref.value)" (input)="updateValueUI(ref, ref.value)" />
+<p>{{ analogDeviceService.analogDevices[analogDeviceId].value }}</p>
