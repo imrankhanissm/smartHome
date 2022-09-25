@@ -1,0 +1,1040 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cell",
+				"cellspacing\tAttr"
+			],
+			[
+				"key",
+				"key_stroke"
+			],
+			[
+				"outpu",
+				"OUTPUT_FILE"
+			],
+			[
+				"border",
+				"border-style\tproperty"
+			],
+			[
+				"col",
+				"color\tproperty"
+			],
+			[
+				"for",
+				"for\tfor (…) {…}"
+			],
+			[
+				"stu",
+				"student"
+			],
+			[
+				"su",
+				"student"
+			],
+			[
+				"st",
+				"student"
+			],
+			[
+				"s",
+				"student"
+			],
+			[
+				"b",
+				"black"
+			],
+			[
+				"padd",
+				"padding-bottom\tproperty"
+			],
+			[
+				"pad",
+				"padding-left\tproperty"
+			],
+			[
+				"si",
+				"box-sizing\tproperty"
+			],
+			[
+				"border-",
+				"border-radius\tproperty"
+			],
+			[
+				"bor",
+				"border\tproperty"
+			],
+			[
+				"mar",
+				"margin-top\tproperty"
+			],
+			[
+				"bac",
+				"background-color\tproperty"
+			],
+			[
+				"user",
+				"Username"
+			],
+			[
+				"P",
+				"Password"
+			],
+			[
+				"onc",
+				"onclick\tAttr"
+			],
+			[
+				"_",
+				"_FILES"
+			],
+			[
+				"mysqli",
+				"mysqli_query"
+			],
+			[
+				"pa",
+				"placeholder\tAttr"
+			],
+			[
+				"inlin",
+				"inline-block\tdisplay"
+			],
+			[
+				"fra",
+				"frameset\tTag"
+			],
+			[
+				"t",
+				"tr\tTag"
+			],
+			[
+				"max",
+				"maxlength\tAttr"
+			],
+			[
+				"ma",
+				"maxlength\tAttr"
+			],
+			[
+				"boder",
+				"border\tproperty"
+			],
+			[
+				"local",
+				"localtime"
+			],
+			[
+				"ques",
+				"question"
+			],
+			[
+				"textd",
+				"text-decoration\tproperty"
+			],
+			[
+				"im",
+				"image"
+			],
+			[
+				"on",
+				"oninput\tAttr"
+			],
+			[
+				"over",
+				"overflow-y\tproperty"
+			],
+			[
+				"wid",
+				"width\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"passw",
+				"passwordtokens"
+			],
+			[
+				"var",
+				"var_dump"
+			],
+			[
+				"quest",
+				"questionid"
+			],
+			[
+				"ans",
+				"answer"
+			],
+			[
+				"op",
+				"optionid"
+			],
+			[
+				"answ",
+				"answered"
+			],
+			[
+				"inc",
+				"incorrectpassword"
+			],
+			[
+				"Ques",
+				"Question"
+			],
+			[
+				"bo",
+				"borderColor"
+			],
+			[
+				"iline",
+				"inline-block\tdisplay"
+			],
+			[
+				"mysql_re",
+				"mysql_real_escape_string"
+			],
+			[
+				"html",
+				"htmlspecialchars"
+			],
+			[
+				"add",
+				"addslashes"
+			],
+			[
+				"ad",
+				"addslashes"
+			],
+			[
+				"Nav",
+				"Navigation"
+			],
+			[
+				"pas",
+				"pass2"
+			],
+			[
+				"re",
+				"required\tAttr"
+			],
+			[
+				"vl",
+				"value"
+			],
+			[
+				"po",
+				"_POST"
+			],
+			[
+				"colleg",
+				"collegecode"
+			],
+			[
+				"optio",
+				"options"
+			],
+			[
+				"mysqli_ft",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"q",
+				"question"
+			],
+			[
+				"mysqli_fet",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"inter",
+				"internal"
+			],
+			[
+				"vlau",
+				"values"
+			],
+			[
+				"mysqli_se",
+				"mysqli_select_db"
+			],
+			[
+				"iframe",
+				"iframebackground"
+			],
+			[
+				"outl",
+				"outline-color\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"mysqli_f",
+				"mysqli_fetch_assoc"
+			],
+			[
+				"inpu",
+				"inputnumber"
+			],
+			[
+				"inup",
+				"input"
+			],
+			[
+				"cre",
+				"createElement"
+			],
+			[
+				"mi",
+				"min-width\tproperty"
+			],
+			[
+				"inu",
+				"inputs"
+			],
+			[
+				"inpt",
+				"inputs"
+			],
+			[
+				"char",
+				"charCodeAt"
+			],
+			[
+				"inp",
+				"inputname"
+			],
+			[
+				"input",
+				"inputname"
+			],
+			[
+				"cr",
+				"createElement"
+			],
+			[
+				"ip",
+				"input"
+			],
+			[
+				"Que",
+				"Question"
+			],
+			[
+				"ac",
+				"action\tAttr"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"my",
+				"mysql_error"
+			],
+			[
+				"appro",
+				"approveuser"
+			],
+			[
+				"unse",
+				"unset"
+			],
+			[
+				"session_de",
+				"session_destroy"
+			],
+			[
+				"appr",
+				"approveuser"
+			],
+			[
+				"app",
+				"approvecode"
+			],
+			[
+				"ov",
+				"overflow\tproperty"
+			],
+			[
+				"tra",
+				"translateY()\ttransform"
+			],
+			[
+				"text",
+				"text-align\tproperty"
+			],
+			[
+				"rg",
+				"rgba()\tbackground-color"
+			],
+			[
+				"Rejec",
+				"Rejectbutton"
+			],
+			[
+				"Rej",
+				"Rejectbutton"
+			],
+			[
+				"onkey",
+				"onkeypress\tAttr"
+			],
+			[
+				"use",
+				"usernameexists"
+			],
+			[
+				"usern",
+				"usernameexists"
+			],
+			[
+				"p",
+				"p\tTag"
+			],
+			[
+				"err",
+				"errors"
+			],
+			[
+				"mysql_num",
+				"mysql_num_rows"
+			],
+			[
+				"checkuserins",
+				"checkuserinstudents"
+			],
+			[
+				"msqlerr",
+				"mysql_error"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"onke",
+				"onkeypress\tAttr"
+			],
+			[
+				"a",
+				"default\tcursor"
+			],
+			[
+				"tran",
+				"transparent"
+			],
+			[
+				"Dr",
+				"Dropdownlist"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"textde",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"tec",
+				"text-decoration-style\tproperty"
+			],
+			[
+				"textal",
+				"text-align\tproperty"
+			],
+			[
+				"i",
+				"i\tTag"
+			],
+			[
+				"exec",
+				"execute"
+			],
+			[
+				"gr",
+				"grid\tdisplay"
+			],
+			[
+				"overl",
+				"overflow-wrap\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"v",
+				"vertical-align\tproperty"
+			],
+			[
+				"inline",
+				"inline-block\tdisplay"
+			],
+			[
+				"in",
+				"input\tTag"
+			],
+			[
+				"svalid",
+				"svalidmobile"
+			],
+			[
+				"sva",
+				"svalidcpassword"
+			],
+			[
+				"ch",
+				"checked"
+			],
+			[
+				"val",
+				"value"
+			],
+			[
+				"Susern",
+				"Susernameerror"
+			],
+			[
+				"Pa",
+				"Password"
+			],
+			[
+				"get",
+				"getElementById"
+			],
+			[
+				"vli",
+				"validusername"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+		[
+			[
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					""
+				],
+				[
+					"Packages/C++/C++ Single File.sublime-build",
+					"Run"
+				]
+			],
+			[
+				"Packages/C++/C++ Single File.sublime-build",
+				"Run"
+			]
+		]
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"debuqu",
+				"Debugger: Quit"
+			],
+			[
+				"debugger",
+				"Debugger: Install Adapters"
+			],
+			[
+				"de",
+				"Debugger: Open"
+			],
+			[
+				"deb",
+				"Debugger: Open"
+			],
+			[
+				"debu",
+				"Debugger: Open"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"terminu",
+				"SublimeLinter: Reload SublimeLinter and its Plugins"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"rem",
+				"Package Control: Remove Package"
+			],
+			[
+				"pci",
+				"Package Control: Install Package"
+			],
+			[
+				"mat",
+				"Material Theme: Activate theme"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"dis",
+				"Package Control: Disable Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":",
+				"UI: Select Theme"
+			],
+			[
+				":o",
+				":$ - EOF"
+			],
+			[
+				":q",
+				"Set Syntax: SQL"
+			],
+			[
+				"p",
+				"Package Control: Remove Package"
+			],
+			[
+				"re",
+				"Package Control: Remove Repository"
+			],
+			[
+				"",
+				":$ - EOF"
+			],
+			[
+				"rep",
+				"Package Control: Remove Package"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"addr",
+				"Package Control: Add Repository"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"remo",
+				"Package Control: Remove Package"
+			],
+			[
+				":$",
+				":$ - EOF"
+			],
+			[
+				"en",
+				"Package Control: Enable Package"
+			],
+			[
+				"pa",
+				"Package Control: Discover Packages"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"disab",
+				"Package Control: Disable Package"
+			],
+			[
+				"termi",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"term",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"termin",
+				"Terminality: Browse Commands..."
+			],
+			[
+				"packin",
+				"Package Control: Install Package"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"palle",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control:",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: ",
+				"Package Control: Remove Package"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"INSTALL p",
+				"Package Control: Install Package"
+			],
+			[
+				"Package Control: inst",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 412.0,
+		"history":
+		[
+			"print('hello')",
+			"cls",
+			"terminus_open",
+			"terminu_open",
+			"exit()",
+			"exit",
+			"cls",
+			"print('imran')",
+			"dir",
+			"ls",
+			"ng",
+			"cls",
+			"dir",
+			"cls",
+			"exit",
+			"stop",
+			"quit",
+			"exit",
+			"print(a)",
+			"a = 10",
+			"for i in range(5):",
+			"print(1)",
+			"help",
+			"dotnet --version"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/C/Users/Imran/Documents/Myfiles/myProjects/smartHome/API"
+	],
+	"file_history":
+	[
+		"/C/Users/Imran/Documents/Myfiles/myProjects/smartHome/API/dbg.sublime-project",
+		"/C/Users/Imran/Downloads/labs_credetials.txt",
+		"/C/Users/Imran/Documents/Myfiles/myProjects/smartHome/portainer_run.txt",
+		"/C/Users/Imran/Documents/Myfiles/myProjects/smartHome/smartHomeUI/default.conf",
+		"/C/Users/Imran/Documents/Myfiles/myProjects/smartHome/API/smartHome.csproj",
+		"/C/Users/Imran/Documents/Myfiles/myProjects/smartHome/smartHomeUI/nginx.conf",
+		"/C/Users/Imran/Documents/Myfiles/myProjects/smartHome/smartHomeUI/dist/smartHomeUI/web.config",
+		"/C/Users/Imran/Desktop/todos.txt",
+		"/C/Users/Imran/Documents/Myfiles/myProjects/smartHome/smartHomeUI/dist/smartHomeUI/index.html",
+		"/C/Users/Imran/AppData/Local/Packages/Microsoft.WindowsTerminalPreview_8wekyb3d8bbwe/LocalState/settings.json",
+		"/C/Users/Imran/Desktop/newsp.txt",
+		"/C/Users/Imran/Desktop/sps.sql",
+		"/C/Users/Imran/Desktop/getUsersInBatchI.sql",
+		"/C/Users/Imran/Desktop/labs_credetials.txt",
+		"/C/Users/Imran/Desktop/exam_ids.sql",
+		"/C/Users/Imran/Documents/Myfiles/myProjects/smartHome/Dockerfile.txt",
+		"/C/Users/Imran/Documents/Myfiles/myProjects/smartHome/smartHomeAPI/.dockerignore",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/sys.servers.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/SQLQuery5 - Copy.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/copyLessons.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/copyLessons2.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/copyclbs.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/labexamscopy.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/copy_courseExam.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/copy_exam.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/servers.sql",
+		"/C/Users/Imran/Downloads/20mcq-10pros.txt",
+		"/C/Users/Imran/Desktop/labs_credetials",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/moveclbpnasscomtodev.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/copyCodeChallengesToQuestions.sql",
+		"/C/Users/Imran/Desktop/sample.txt",
+		"/C/Users/Imran/Downloads/ecnerwala-000000000043bcb1.txt",
+		"/C/Users/Imran/Documents/Myfiles/Softwares/System322/System32Log.txt",
+		"/C/Users/Imran/Downloads/Ashishgup-000000000043c12c.txt",
+		"/C/Users/Imran/Downloads/sudoBug-000000000043cb33.txt",
+		"/C/Users/Imran/Downloads/neal_wu-000000000043ba19.txt",
+		"/C/Users/Imran/AppData/Local/Temp/Rar$DIa14232.21717/route.print.txt",
+		"/C/Users/Imran/Documents/Myfiles/work/SQLQuery5.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/note.txt",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/copycourses.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/copy_course.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/users.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/latest.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/tttttt.sql",
+		"/C/Users/Imran/Desktop/SQLQuery1.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/labs_course_report.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/assignExamQuestions (2).sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/assignCoursesToanotherOrg.sql",
+		"/C/Users/Imran/Desktop/copy_exam.sql",
+		"/C/Users/Imran/Desktop/copy_course.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/codingProblems/Formate.txt",
+		"/C/Users/Imran/Documents/Myfiles/work/codingProblems/topics.txt",
+		"/C/Users/Imran/Desktop/sp_bak.sql",
+		"/C/Users/Imran/Desktop/SQLQuery4.sql",
+		"/C/Users/Imran/Desktop/changes.txt",
+		"/C/Users/Imran/Desktop/sppppppp.txt",
+		"/C/Users/Imran/Desktop/New Text Document.txt",
+		"/C/Users/Imran/Desktop/getmedalwisestudent_bak.sql",
+		"/C/Users/Imran/Desktop/copy_courseExam.sql",
+		"/C/Users/Imran/Desktop/flyoutsidebar.txt",
+		"/C/Users/Imran/Desktop/usp_GetUsersDT.sql",
+		"/C/Users/Imran/Downloads/SPs_Labs (1).sql",
+		"/C/Users/Imran/Downloads/SPs_Labs.sql",
+		"/C/Users/Imran/Desktop/lc.txt",
+		"/C/Users/Imran/Downloads/SQLQuery1.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/assignProgramsToCourse.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/ExamReportWithPools.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/SQLQuery5.sql",
+		"/C/Users/Imran/Downloads/errorids.txt",
+		"/C/Users/Imran/Downloads/dbo.tbl_CollegeLabPrograms.Table - Copy.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/Database/StoredProcedures/20200904_CREATE_usp_GetUsersDT.sql",
+		"/C/Program Files/Redis/server_log.txt",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/Database/StoredProcedures/20200903_ALTER_usp_GetCourses.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/HebeonLabs/Controllers/CourseContentController.cs",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/Database/StoredProcedures/20200901_ALTER_usp_CLB_Get_MedalData.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/Database/StoredProcedures/20200907_ALTER_GetMedalwiseStudentList.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/Database/StoredProcedures/20200831_ALTER_usp_CLB_Get_MedalData.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/Database/StoredProcedures/20200901_ALTER_usp_CLB_Get_Programs.sql",
+		"/C/Users/Imran/Desktop/getmedalwisestudentlist.txt",
+		"/C/Users/Imran/Desktop/getmedaldata.txt",
+		"/C/Users/Imran/Desktop/usp_get_programs.txt",
+		"/C/Users/Imran/Desktop/getacademiclabexams.txt",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/Database/StoredProcedures/20200901_ALTER.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/Database/StoredProcedures/20200901_ALTER_usp.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/Database/StoredProcedures/2020_09_01_ALTER_usp_CLB_Get_MedalData.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/Database/StoredProcedures/2020_09_01_ALTER_usp_GetMedalData.sql",
+		"/C/Users/Imran/Downloads/nasscom/nasscom/titanic-train.csv.txt",
+		"/C/Users/Imran/Downloads/nasscom/nasscom/HR_comma_sep.csv.txt",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/HebeonLabs/.vscode/launch.json",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/HebeonLabs/.vscode/tasks.json",
+		"/C/Users/Imran/Desktop/temp.txt",
+		"/C/Users/Imran/Downloads/login.txt",
+		"/C/Users/Imran/Desktop/getmedalwisestudent_bak.txt",
+		"/C/Users/Imran/Desktop/changes123",
+		"/C/Users/Imran/Desktop/changes123.txt",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/Database/StoredProcedures/20200806_ALTER_usp_GetCourses.sql",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/Database/StoredProcedures/20200807_CREATE_usp_GetDashboardCardsData.sql",
+		"/C/Users/Imran/Desktop/aaaa.txt",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs.api/HebeonLabs.Api/Services/DatabaseService.cs",
+		"/C/Users/Imran/Downloads/A.txt",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs.api/HebeonLabs.Api/Startup.cs",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs.api/HebeonLabs.Api/appsettings.json",
+		"/C/Users/Imran/Downloads/AI Foundation Internship.txt",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs.api/HebeonLabs.Api/Controllers/HebeonLabController.cs",
+		"/C/Users/Imran/Documents/script.sql",
+		"/C/Users/Imran/Desktop/dtc.py",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/hebeonlabs/Database/StoredProcedures/New Text Document.txt",
+		"/C/Users/Imran/Downloads/cdn links details.txt",
+		"/C/Users/Imran/Downloads/Day 03.txt",
+		"/C/xampp/htdocs/buboard/index.php",
+		"/C/xampp/htdocs/config.php",
+		"/C/xampp/htdocs/index.php",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/buboard/Database/Schema/00 - Buboard.sql",
+		"/C/xampp/htdocs/index (2).php",
+		"/C/wamp64/bin/php/DO_NOT_DELETE_5.6.35.txt",
+		"/C/Users/Imran/Documents/Myfiles/work/labs/buboard/Application/src/index.php",
+		"/C/Users/Imran/Desktop/index.htm",
+		"/C/wamp64/wampmanager.ini",
+		"/C/wamp64/instructions_for_use.txt",
+		"/C/wamp64/install.txt",
+		"/C/wamp64/wampmanager.tpl",
+		"/C/wamp64/wampmanager.conf",
+		"/C/Users/Imran/Desktop/todos2.txt",
+		"/C/Users/Imran/Desktop/nasscomUsers.txt",
+		"/C/Users/Imran/Desktop/tmpcert.html",
+		"/C/Users/Imran/Desktop/todos2",
+		"/C/Users/Imran/Documents/Myfiles/work/sqlScripts/topics.sql",
+		"/C/Users/Imran/Desktop/Tested types of exams in pc and mobile (mcq, codin"
+	],
+	"find":
+	{
+		"height": 32.0
+	},
+	"find_in_files":
+	{
+		"height": 616.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": true,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 208.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.SublimeLinter":
+	{
+		"height": 208.0
+	},
+	"output.SublimeLinter Messages":
+	{
+		"height": 158.0
+	},
+	"output.doc":
+	{
+		"height": 162.0
+	},
+	"output.exec":
+	{
+		"height": 307.0
+	},
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"output.hex_viewer_inspector":
+	{
+		"height": 127.0
+	},
+	"pinned_build_system": "",
+	"project": "dbg.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\My files\\Programs\\c++\\Prac\\sample.bin"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 392.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 592.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": false,
+	"side_bar_width": 147.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

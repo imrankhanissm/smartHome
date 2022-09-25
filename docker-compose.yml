@@ -1,0 +1,29 @@
+version: '3.9'
+
+services:
+  db:
+    # build: ./DB
+    image: db:v1
+    container_name: database
+    ports:
+      - 3307:3306
+
+  api:
+    build: ./API
+    container_name: api
+    ports:
+      - 5000:5000
+    depends_on:
+      - db
+    deploy:
+      restart_policy:
+        condition: on-failure
+        delay: 5s
+
+  ui:
+    image: ui:v1
+    container_name: ui
+    ports:
+      - 8080:80
+    depends_on:
+      - api
